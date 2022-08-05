@@ -12,7 +12,7 @@ import { LoginComponent } from './login/login.component'
 import { RegisterComponent } from './register/register.component'
 import { ProfileComponent } from './profile/profile.component'
 // import { CometChatUserListWithMessages } from '../cometchat-pro-angular-ui-kit/CometChatWorkspace/src/components/Users/CometChat-user-list-with-messages/cometchat-user-list-with-messages.module';
-import { CometChatUserListWithMessages } from '../cometchat-pro-angular-ui-kit/src/components/Users/CometChat-user-list-with-messages/cometchat-user-list-with-messages.module';
+import { CometChatUserListWithMessages } from '../components/Users/CometChat-user-list-with-messages/cometchat-user-list-with-messages.module';
 
 @NgModule({
   declarations: [
